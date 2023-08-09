@@ -15,8 +15,6 @@ The Daily News React Web App is a dynamic and user-friendly web application that
 
 - **User-Friendly Interface**: The app offers an intuitive and easy-to-navigate interface, making your news reading experience smooth and enjoyable.
 
-- **Search Functionality**: Looking for something specific? Utilize the search feature to find articles on particular topics or keywords.
-
 - **Responsive Design**: Whether you're using a desktop, tablet, or smartphone, the app is designed to adapt to various screen sizes for a consistent experience.
 
 - **Save Favorites**: Mark articles as favorites to quickly access them later, even across different devices.
@@ -59,14 +57,19 @@ The Daily News React Web App is a dynamic and user-friendly web application that
 
 5. Open your web browser and go to `http://localhost:3000` to use the app.
 
-## Credits
+## Usage
 
-This project was created by [Your Name]. Feel free to contact me at [your@email.com] for any inquiries or suggestions.
+1. On the homepage, you'll see a list of top news articles from various sources.
+2. Use the navigation bar to select different categories (e.g., Business, Entertainment, Health, etc.).
+3. Click on a news article to view its detailed information.
+4. Navigate back to the homepage or switch to a different category using the navigation bar.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
+## Technologies Used
 
----
+- React: JavaScript library for building user interfaces.
+- Bootstrap: Front-end framework for responsive and mobile-first design.
+- React Router: Library for handling navigation within a React application.
+- News API: External API used to fetch news articles from various sources.
 
 Stay informed and engaged with the world's latest news through the Daily News React Web App. Explore articles, save your favorites, and enjoy a seamless news browsing experience.
