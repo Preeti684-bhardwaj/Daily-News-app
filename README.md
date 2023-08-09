@@ -5,6 +5,8 @@ The Daily News React Web App is a dynamic and user-friendly web application that
 ![Screenshot](screenshot01.png)
 ![Screenshot](screenshot02.png)
 ![Screenshot](screenshot03.png)
+![Screenshot](ScreenshotMobileview.png)
+![Screenshot](ScreenshotMobileview2.png)
 
 
 ## Features
