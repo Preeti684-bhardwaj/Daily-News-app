@@ -1,10 +1,12 @@
 # Daily News React Web App
 
 The Daily News React Web App is a dynamic and user-friendly web application that provides users with easy access to a wide range of news articles from various categories including Entertainment, Business, General, Health, Sports, Science, and Technology. Stay informed about the latest happenings around the world with just a few clicks.
-
+ # Desktop View
 ![Screenshot](screenshot01.png)
+# Loading interface 
 ![Screenshot](screenshot02.png)
 ![Screenshot](screenshot03.png)
+# Mobile View
 ![Screenshot](ScreenshotMobileview.png)
 ![Screenshot](ScreenshotMobileview2.png)
 
